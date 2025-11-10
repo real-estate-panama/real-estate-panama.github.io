@@ -178,10 +178,10 @@ Edita las variables CSS en `style.css`:
 
 - **Extensión**: 1,880 hectáreas
 - **Calado**: 24 pies (8 metros)
-- **Playa**: 1 kilómetro de playa continental
+- **Playa**: 3 kilómetro de playa continental
 - **Distancia a Tocumen**: 14 kilómetros
 - **Ubicación**: Cerca de la entrada del Canal de Panamá
-- **Precio**: $7,000 por hectárea (negociable)
+- **Precio**: $7,000 por hectárea
 
 ---
 
